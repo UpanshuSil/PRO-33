@@ -26,7 +26,7 @@ function setup() {
   engine=Engine.create();
   world=engine.world;
 
- fd = createSprite(280, 390, 650, 20);
+
  
   alienw = createSprite(50, 320, 50, 50);
  alienw.addAnimation("alienanimation",alien); 
